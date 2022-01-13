@@ -1,3 +1,4 @@
+Hello ....
 
 Data Modeling Questions:
 
@@ -6,6 +7,8 @@ Where can we change Date/ numeric / text format?
 a) Modeling level at field properties
 b) Measure tools level [menu level] properties
 c) Using DAX formula [Format function]
+
+What is RPA?
 
 What is RLS [Row Level Security]?
 Filtering rows based on user connected and showing...
